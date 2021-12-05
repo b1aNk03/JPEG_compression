@@ -9,3 +9,5 @@ It includes
 5. quantization  
 6. coding
 7. decompression
+## If you want to use the program directly  
+just fill the root of the image in the 'imread' function
